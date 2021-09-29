@@ -186,16 +186,16 @@ span:last-child {
 
 @media screen and (max-width:991px) {
     #donpablo {
-      height: 100px;
-      width : 100px;
+      height: 200px;
+      width : 200px;
     }
     #don2 {
-      height: 100px;
-      width : 100px;
+      height: 200px;
+      width : 200px;
    }
 
     #hippo {
-      height: 100px;
-      width : 100px;
+      height: 200px;
+      width : 200px;
     }
 }
