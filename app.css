@@ -158,3 +158,28 @@ span:last-child {
     50% { background-position: 400% 0; }
     100% { background-position: 0 0; }
 }
+
+
+#donpablo { 
+  animation: three 1s infinite;
+  animation-direction: alternate;
+}
+
+#don2 {
+  height: 330px;
+  width : 300px;
+}
+
+#hippo {
+  height: 330px;
+  width : 300px;
+}
+
+@keyframes three {
+  0% {
+    transform: rotateZ(-10deg);
+  }
+  100% {
+    transform: rotateZ(10deg);
+  }
+}
