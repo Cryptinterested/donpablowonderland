@@ -183,3 +183,19 @@ span:last-child {
     transform: rotateZ(10deg);
   }
 }
+
+@media screen and (max-width:991px) {
+    #donpablo {
+      height: 100px;
+      width : 100px;
+    }
+    #don2 {
+      height: 100px;
+      width : 100px;
+   }
+
+    #hippo {
+      height: 100px;
+      width : 100px;
+    }
+}
