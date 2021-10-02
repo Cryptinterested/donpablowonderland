@@ -24,10 +24,8 @@ body {
   text-align: center;
 }
 
-#image_roadmap {
-  margin-top: 50px;
-  margin-left: 7%;
-  border-color: #000;
+.road {
+  text-align: center;
 }
 
 h1 {
